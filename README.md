@@ -16,17 +16,17 @@ lat5<br>
 lat6<br>
 ![alt text](https://github.com/DannyBramantyo9/modul3/blob/master/image/6.png)<br>
 
-lat7<br>
+Form<br>
 ![alt text](https://github.com/DannyBramantyo9/modul3/blob/master/image/7.png)<br>
 
-lat8<br>
+Data benar<br>
 ![alt text](https://github.com/DannyBramantyo9/modul3/blob/master/image/8.png)<br>
 
-lat<br>
+Output Benar<br>
 ![alt text](https://github.com/DannyBramantyo9/modul3/blob/master/image/9.png)<br>
 
-lat1<br>
+Data salah<br>
 ![alt text](https://github.com/DannyBramantyo9/modul3/blob/master/image/10.png)<br>
 
-lat1<br>
+Output salah<br>
 ![alt text](https://github.com/DannyBramantyo9/modul3/blob/master/image/11.png)<br>
